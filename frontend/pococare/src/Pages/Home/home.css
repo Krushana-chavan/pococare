@@ -1,0 +1,25 @@
+.App {
+    font-family: sans-serif;
+    text-align: center;
+  }
+  
+  .header {
+    background-color: #222;
+    color: #fff;
+    padding: 20px;
+  }
+  
+  .content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 20px;
+  }
+  
+  img {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    margin-bottom: 20px;
+  }
+  
